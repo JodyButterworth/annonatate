@@ -1,0 +1,34 @@
+---
+canvas: "http://fc926d2e-291b-43e0-9b79-e15bc986af40"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "EAP would like to wish everyone a very happy Year of the Tiger. May all your wishes for the year ahead come true.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "JodyButterworth",
+                "name": "JodyButterworth"
+            },
+            "created": "2022-01-20T09:29:16.580Z",
+            "modified": "2022-01-20T09:29:45.108Z"
+        }
+    ],
+    "target": {
+        "source": "http://fc926d2e-291b-43e0-9b79-e15bc986af40",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:928.2262573242188,1067.76953125,640.3414916992188,757.7374267578125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://jodybutterworth.github.io/EAP-IIIF-test/manifests/tiger_manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ee7c9c47-e084-45e1-803f-470db5e1fd1e.json"
+}
