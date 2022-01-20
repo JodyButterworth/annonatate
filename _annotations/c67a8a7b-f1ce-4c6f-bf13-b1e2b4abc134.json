@@ -1,0 +1,33 @@
+---
+canvas: "http://7afd55e7-fd67-41fe-a1bd-ca8b4107978e"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "The Year of the Tiger symbolises determinism, impulsiveness and innovation. It will be a year of strength and progress \u2013 despite any previous adversity. This year is synonymous with unexpected changes and surprising advances. For all 12-zodiac signs, this is a time to give of your best in order to improve your living conditions. It is also a good time for all those who wish to forget their troubled past, heal their wounds and find an appropriate place in society. ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "JodyButterworth",
+                "name": "JodyButterworth"
+            },
+            "created": "2022-01-20T09:28:14.815Z"
+        }
+    ],
+    "target": {
+        "source": "http://7afd55e7-fd67-41fe-a1bd-ca8b4107978e",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:405.8143005371094,1035.21875,870.8645324707031,772.6788330078125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://jodybutterworth.github.io/EAP-IIIF-test/manifests/tiger_manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c67a8a7b-f1ce-4c6f-bf13-b1e2b4abc134.json"
+}
